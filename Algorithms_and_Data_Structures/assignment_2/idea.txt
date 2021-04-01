@@ -1,0 +1,8 @@
+Have a combo counter and track High Score
+3 rarities of square with lower and lower response times
+Have a start screen with a square under the start text
+Same as above for Try Again
+- Create squares relative to canvas height.
+Rarer squares become more common as combo counter increases.
+All worth same amount of points.
+Add button to reset Canvas if it goes wonky after resizing. (just call game_start())

@@ -1,0 +1,4 @@
+(765, "Rick Sanchez", "space address 1")
+(865, "Morty Smith", "home address 2")
+(825, "Summer Smith", "home address 2")
+(765, "Rick Sanchez", "space address 2")
